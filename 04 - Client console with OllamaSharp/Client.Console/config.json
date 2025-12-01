@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "patients": {
+      "command": "C:\\Users\\Demo\\source\\repos\\XMasDevMCPDemo\\01 - Server console\\Server.Console\\bin\\Debug\\net9.0\\Server.Console.exe",
+      "args": []
+    }
+  }
+}

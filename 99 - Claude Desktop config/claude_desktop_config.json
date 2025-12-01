@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "demo": {
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "C:\\Users\\tanop\\source\\repos\\MCPTest\\Server\\Server.Console.csproj",
+        "--no-build"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "XmasDevDemo": {
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "C:\\Users\\Demo\\source\\repos\\XMasDevMCPDemo\\01 - Server console\\Server.Console\\Server.Console.csproj",
+        "--no-build"
+      ]
+    }
+  }
+}
